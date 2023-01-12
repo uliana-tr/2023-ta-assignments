@@ -1,0 +1,13 @@
+---
+title: "hello-ta"
+output: github_document
+---
+
+
+## Including Code
+
+library(tidyverse)
+
+library(igraph)
+
+print('Hello, TA!')
